@@ -5,7 +5,7 @@
 
   <p>A <b>PostGT</b> is a comprehensive resource for Generating Own Profile Post, use of various tools, blogs to help users achieve their Post card Generation.</p>
 
-👉 Live Demo: <a href='https://alisprofile.github.io/Depth/'>Live Demo</a>
+👉 Live Demo: <a href='https://post-gt.vercel.app/'>PostGT</a>
 
 <h3>Build with:</h3>
 
